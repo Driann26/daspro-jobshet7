@@ -4,7 +4,7 @@ public class SiakadWhile02 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        int grade, total, i = 0;
+        int grade, total, i = 0; 
 
         System.out.print("Enter the number of students: ");
         total = sc.nextInt();
